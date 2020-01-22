@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a simple interactive game, with implementation of a high score database. Users will be able to play the game to achieve a score which will be entered into a database to later be displayed on a type of leaderboard.
+
+
 ### Features
-Include Features here
+- Movement with arrow keys
+- Shooting projectiles with spacebar
+- Randomly spawned enemies
+- Health pods for life
+- Power pods for protection
+- High score tracker
+
+
 ### Technologies
-Include Technologies here
+- C#
+- Unity
+- SQL
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will be learning Unity to pair with C# to create my game.
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/j0LRT3tr/final-project
